@@ -1,0 +1,8 @@
+{
+  "name": "Overwatch",
+  "description": "Tactical Bureaucracy Navigator for Veterans. Features VA letter decoding, claim appeal generation, and crisis support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
